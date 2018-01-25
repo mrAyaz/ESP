@@ -526,7 +526,7 @@
         {
           "category": "ESP8266", 
           "name": "esp8266", 
-          "url": "esp8266-2.4.0.zip", 
+          "url": "https://raw.githubusercontent.com/mrAyaz/ESP/master/esp8266-2.4.0.zip", 
           "checksum": "SHA-256:b2bca24701873678faafc27949473a255867ccb1a7d577370028f74817bcc532", 
           "version": "2.4.0", 
           "architecture": "esp8266", 
